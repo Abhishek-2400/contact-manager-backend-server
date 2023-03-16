@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "91aaacc9-97a1-10ad-24e2-68ef22b1d260",
+      "name": "Dhruv Gupta",
+      "email": "dhruv@gmail.com"
+    },
+    {
+      "id": "4271a77d-6c27-905a-4950-b4bb349b7433",
+      "name": "Abhishek Shukla",
+      "email": "abhi2003shukla@gmail.com"
+    },
+    {
+      "id": "e3f791ae-6b40-8928-e677-b1b72076640c",
+      "name": "dfwg",
+      "email": "abhi2003shukla@gmail.com"
+    },
+    {
+      "id": "2c0df9ea-4445-cd01-0d61-0b6c0c016411",
+      "name": "vrerb",
+      "email": "abhi2003shukla@gmail.com"
+    },
+    {
+      "id": "6cfbcce3-53fb-1f80-e946-46144aaabbbb",
+      "name": "vfev",
+      "email": "abhi2003shukla@gmail.com"
+    },
+    {
+      "id": "2812c35d-dc47-cc15-d104-4061e6b4a8da",
+      "name": "verv",
+      "email": "abhi2003shukla@gmail.com"
+    },
+    {
+      "id": "af293ca9-ea3e-8b9f-30b3-863d9d441027",
+      "name": "Sameer",
+      "email": "abhi2003shukla@gmail.com"
+    }
+  ]
+}
